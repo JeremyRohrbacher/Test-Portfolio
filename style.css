@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color:  #120e14;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -39,14 +39,14 @@ body {
   float: left;
   padding-left: 2cm;
   font-size: 30px;
-  color: yellow
+  color: rgb(250, 250, 250)
 
   /* Add the styles here */
 }
 
 .profile_name .contact_info {
   font-size: 15px;
-  font-style: italic;
+  font-style: normal;
   display: flex;
   align-items: center;
   flex-direction: row;
